@@ -52,19 +52,7 @@ Get direct download links from fuckingfast.co for your Download Manager
   #Install requirements in venv
   pip install -r requirements.txt
 ```
-
-**Help**
-
-```
-  usage: app.py [-h] --filepath FILEPATH [--save]
-
-A Wrapper for the File Hoster fuckingfast.co!
-
-options:
-  -h, --help            show this help message and exit
-  --filepath FILEPATH, -f FILEPATH
-                        Enter path to your URL List file
-  --save, -s
-
-  Made by @fruhansen
+Basic Usage:
+```bash
+  python app.py -f <listfilepath> <-s (for saving to txt)
 ```

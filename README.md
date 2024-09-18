@@ -15,7 +15,7 @@ Still WIP, only one script at a time
 
 **Still WIP**
 
-The Downloader is able to get a direct downloadlink for your downloadmanagers or can directly download a list of mods (specififed in a text file) using curl.
+The Downloader is able to get a direct downloadlink for your downloadmanagers or can directly download a list of mods (specififed in a text file) using curl 8or any other cli downloader).
 
 **Features**
 - [x] Bugfixing (Problems with Seleniums Element Finder)
@@ -23,6 +23,7 @@ The Downloader is able to get a direct downloadlink for your downloadmanagers or
 - [x] Downloading of required Mods (Automatic)
 - [ ] Building to Binary
 - [ ] GUI
+- [ ] (Premium Support (I dont have one ;-))
 
 ---
 ![Logo](assets/fuckingfast_banner.png)
